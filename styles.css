@@ -15,10 +15,17 @@ body {
 }
 
 #screen {
+    display: flex;
     height: 55px;
     margin: 0 5px;
+    padding: 0 5px;
     background-color:dimgrey;
     border-radius: 5%;
+    font-family: 'Press Start 2P', cursive;
+    color: yellowgreen;
+    font-size: 32px;
+    justify-content: end;
+    align-items: center;
 }
 
 #grid-buttons {
