@@ -4,7 +4,7 @@ body {
 
 #calculator {
     display: flex;
-    width: 15%;
+    width: 286px;
     height: 300px;
     flex-direction: column;
     justify-content: space-around;
